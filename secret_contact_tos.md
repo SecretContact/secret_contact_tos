@@ -1,37 +1,201 @@
-Effective: May 2024
+### **1\. Introduction**
 
-**Scope.** These terms of use (“**Terms**”) apply to your use of the websites and mobile- and web-based software applications operated by NAVEX Global, Inc. and its subsidiaries and affiliates (collectively, “**NAVEX**”) that link to the Terms (collectively, the “**Site”**). By using the Site, you irrevocably agree to the Terms then in effect. NAVEX may revise the Terms at any time. You should periodically review these Terms to understand the terms that govern your access to the Site.
+#### **Service Description**
 
-If you are using the Site as an administrative user accessing a NAVEX software application on behalf of a NAVEX customer, the terms of the services agreement governing NAVEX’s provision of services to that customer shall control over these Terms, to the extent they conflict.
+Welcome to Secret Contact's Whistleblower Portal (the “Service”), a secure, anonymous platform designed for individuals (“Reporters”) to submit confidential information and concerns to their respective organizations. The Service enables businesses and their administrators (“Business Admins”) to receive, review, and respond to reports while maintaining high standards of data security and anonymity for Reporters. By providing a trusted environment for ethical disclosures, Secret Contact aims to support transparency and integrity within your organization.
 
-**Privacy.** Our [Privacy Statement](https://www.navex.com/en-us/privacy-statement/) applies to your use of the Site. It describes the collection and use of personal information on the Site and is incorporated in the Terms by this reference. Information on the Site’s use of cookies is available in the [NAVEX Cookie Statement](https://www.navex.com/en-us/cookie-statement/).
+#### **Acceptance of Terms**
 
-**Intended Users.** The Site is intended for use by individuals of the legal age of majority, whether acting in their individual capacity or on behalf of a legal entity. By accessing the Site, you affirm that you are at least the legal age of majority in the jurisdiction in which you reside.
+These Terms and Conditions (“Terms”) govern the use of the Service provided by Secret Contact. By accessing or using the Service, you agree to comply with and be bound by these Terms. If you do not agree with any part of these Terms, you must not access or use the Service.
 
-**Use of the Site**. The Site and all information, artwork, text, video, audio, pictures, training materials, webinars, whitepapers, videos, graphics, features, functionality, design elements, documentation, services, and other content appearing on the Site (collectively, “**Content**”) are the sole and exclusive property of NAVEX or its licensors. NAVEX and its licensors retain all right, title, and interest (including all copyright, trademark, and other proprietary rights) in the Site and the Content, and no license is granted to you except as otherwise expressly stated in these Terms.
+#### **Modification of Terms**
 
-Certain Content is provided for informational purposes, including articles, benchmark reports, webinars, whitepapers, case studies, data sheets, sample policies, checklists, blog posts, and similar resources (collectively, “**Educational Materials**”). You may use the Educational Materials for personal, non-commercial, and informational purposes, provided you (i) keep intact all copyright, trademark, and other proprietary notices and authorship attributions on the Educational Materials; (ii) do not modify or use the Educational Materials for any other purpose without NAVEX’s express written consent; and (iii) do not broadly reproduce, republish, display, post, make available, transmit, or distribute the Educational Materials.
+Secret Contact reserves the right to update or modify these Terms at any time. Any changes will be effective upon posting to the Service, and we will provide notice of significant updates either through direct communication (e.g., email to Business Admins) or a prominent notice within the Service. By continuing to access or use the Service after changes have been made, you agree to be bound by the updated Terms.
 
-**No Legal Advice**. NAVEX provides the Educational Materials for informational purposes only. NAVEX does not provide legal advice or opinions, nor should any Educational Materials be understood or construed as such. Consult your legal counsel to understand any legal compliance obligations applicable to you or your organization.
+---
 
-**Site Modification and Discontinuing Use.** We may modify the Site at any time, with or without notice to you. You may discontinue your use of the Site at any time. These Terms will continue to apply to your past use of the Site.
+### **2\. Definitions**
 
-**No Unlawful or Prohibited Use.** As a condition of your use of the Site, you may not, and you represent and warrant that you will not, use the Site for any purpose that is unlawful, infringes or violates any third party’s rights, is prohibited by these Terms, or interferes with the Site or its operation in any way. NAVEX reserves the right to investigate your use of the Site. If we determine that you have violated these Terms, we may prohibit you from using the Site and take appropriate legal action.
+For clarity and convenience, certain terms used in these Terms and Conditions are defined as follows:
 
-**Third Party Links.** The Site may contain links to third-party websites (“\*\*Linked Site(s)\*\*”). NAVEX does not control or endorse and shall not be responsible for any goods or services advertised, sold, or available on any Linked Site. NAVEX disclaims all liability, direct or indirect, for any loss or damage caused to you in connection with your use of any Linked Site. Your access and use of any Linked Site is subject to the terms of use or other agreements applicable to those Linked Sites; these Terms do not apply to Linked Sites.
+* **“Service” or “Portal”**: Refers to Secret Contact's Whistleblower Portal, including all related software, features, tools, and functionalities provided to facilitate anonymous and secure reporting.  
+* **“Reporter”**: An individual using the Service to submit information, complaints, or concerns confidentially.  
+* **“Business Admin”**: An authorized representative of the business or organization using the Service, typically a compliance officer, HR manager, or other designated individual responsible for receiving, reviewing, and responding to reports submitted by Reporters.  
+* **“Client”**: The person or entity purchasing a subscription from Secret Contact for its services.  
+* **“User Data”**: Any information provided by or associated with users of the Service, including Reporters and Business Admins. For Reporters, this data may be anonymized or limited to ensure confidentiality. For Business Admins, User Data may include identifiable information necessary for account access and communication.  
+* **“Audit Logs”**: Immutable records generated by the Service that document key actions taken within the Portal, such as report submissions, access times, and administrative responses. Audit Logs are stored in a secure, unalterable format for compliance and security purposes.  
+* **“Personal Data”**: Any information that can identify an individual, such as names, email addresses, or other unique identifiers. The collection and use of Personal Data are governed by our Privacy Policy and applicable data protection laws.  
+* **“Terms”**: Refers to these Terms and Conditions, which govern the use of the Service by both Reporters and Business Admins.  
+* **“Content”**: All information, text, data, graphics, or other material submitted to the Portal, including but not limited to reports, attachments, and responses generated by Business Admins.
 
-**Disclaimer of Warranties**. THE SITE AND THE CONTENT ARE PROVIDED “AS IS” AND “AS AVAILABLE.” TO THE FULLEST EXTENT PERMITTED BY LAW, NAVEX DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT, AND WARRANTIES ARISING FROM COURSE OF DEALING OR PERFORMANCE. NAVEX DOES NOT REPRESENT OR WARRANT THAT (i) THE SITE WILL BE SECURE; (ii) YOUR ACTIVITIES ON THE SITE WILL NOT BE INTERCEPTED; (iii) THE CAPABILITIES OFFERED ON THE SITE WILL BE UNINTERRUPTED, FREE FROM ERRORS OR DEFECTS, OR THAT ANY SUCH ERRORS OR DEFECTS WILL BE CORRECTED; (iv) THE SITE AND THE SERVERS THAT MAKE THE SITE AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS; OR (v) THAT THE SITE AND THE CONTENT ARE ACCURATE, COMPLETE, CURRENT, OR WILL BE UPDATED.
+---
 
-**Limitation of Liability.** TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT WILL NAVEX BE LIABLE FOR ANY DIRECT, INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL, EXEMPLARY, CONSEQUENTIAL, OR ANY OTHER DAMAGES, INCLUDING DAMAGES FOR LOSS OF USE, DATA, OR PROFITS, EVEN IF NAVEX HAS BEEN PREVIOUSLY ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, WHETHER IN AN ACTION UNDER CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, EQUITY, OR ANY OTHER THEORY, ARISING OUT OF OR IN CONNECTION WITH THE USE, INABILITY TO USE, DELAY, OR PERFORMANCE OF THE SITE OR THE CONTENT. IF YOU ARE DISSATISFIED WITH ANY PORTION OF THE SITE, THE CONTENT, OR ANY OF THESE TERMS, YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE SITE AND THE CONTENT.
+### **3\. Eligibility**
 
-**Indemnification and Release.** Upon request by NAVEX, you agree to defend and indemnify NAVEX and its officers, directors, employees, agents, parent companies, successors, and assigns (collectively, “**NAVEX Indemnitees”**) from and against any and all claims, causes of action, demands, losses, liabilities, and costs (including reasonable attorneys’ fees) arising out of or relating to your use of the Site or the Content in violation of these Terms, applicable law, or third-party rights.
+#### **Location Restrictions**
 
-You, for yourself and on behalf of your heirs, estate, insurers, successors, and assigns, hereby fully and forever release and discharge the NAVEX Indemnitees from any and all claims or causes of action you may have for damages relating in any way to your use of the Site or the Content.
+The Service is available exclusively to users located in the United States. By accessing or using the Service, you confirm that you are physically located within the United States. Access from locations outside of the United States is prohibited, and Secret Contact reserves the right to restrict or block access to the Service from any foreign location.
 
-**Liquidated Damages.** If applicable law does not permit limitation or exclusion of a particular liability, warranty, or remedy, NAVEX’s total liability to you shall not exceed one hundred U.S. dollars ($100.00 USD) for any damages, harm, or loss, whether based in contract, tort, negligence, strict liability, equity, or any other theory of liability.
+#### **Account Registration for Business Admins**
 
-**Governing Law; Statute of Limitations.** Your use of the Site and the Content is governed in all respects by the substantive and procedural rules of Delaware and the United States, without regard to conflict of law principles. Any cause of action or claim you may have regarding the Site or any Content must be commenced within one (1) year of when the cause of action or claim first arose.
+To access certain features of the Service, such as reviewing and responding to reports, designated representatives of the organization (referred to as “Business Admins”) must create an account. Business Admin accounts are limited to authorized personnel within the subscribing organization, such as compliance officers, HR managers, or individuals responsible for handling confidential reports.
 
-**Copyright Agent.** Notification of alleged copyright infringement by the Site or any Content should be sent to [legalnotice@navex.com](mailto:legalnotice@navex.com), Attn: Copyright Agent. Please include in such notification all the information required by 17 U.S.C. § 512(c)(3)(A).
+To register, Business Admins must provide accurate and complete information, including but not limited to a valid email address and other identifying details as required by Secret Contact. The individual registering for a Business Admin account represents and warrants that they are authorized by their organization to act on behalf of the organization within the Service. Secret Contact reserves the right to suspend or terminate any account found to be unauthorized or in violation of these Terms.
 
-**Entire Agreement; Severability.** These Terms, including our Privacy Statement, comprise the entire agreement and understanding regarding your use of the Site and the Content. Except as otherwise stated herein, the Terms supersede all prior or contemporaneous agreements or understandings, whether oral or written, regarding your use of the Site and the Content. If any part of these Terms is found to be void or unenforceable, such part will be limited or eliminated to the minimum extent necessary so that the remainder of the part and these Terms shall continue in force and effect to the maximum extent possible.
+---
+
+### **4\. User Responsibilities**
+
+#### **Reporters**
+
+Reporters are expected to use the Service in good faith, providing accurate, truthful, and relevant information in their submissions. By submitting a report, you affirm that the information you provide is, to the best of your knowledge, accurate and not misleading. The Service is intended for serious concerns regarding compliance, ethics, or workplace issues, and should not be used for personal grievances, false accusations, or malicious intent. Misuse of the Service, including the submission of false information, may result in restricted access to the Portal and potential legal consequences. **Secret Contact is not responsible for any damages that may result from inaccurate, misleading, or malicious submissions by Reporters.**
+
+#### **Business Admins**
+
+Business Admins have specific responsibilities regarding the secure and compliant handling of reports within the Service. These responsibilities include, but are not limited to:
+
+* **Account Security**: Business Admins must maintain the security and confidentiality of their account credentials. Sharing login details with unauthorized users is strictly prohibited. Business Admins are responsible for any activity conducted through their account and must promptly notify Secret Contact of any suspected unauthorized access.  
+* **Timely Response to Reports**: Business Admins are expected to review and respond to reports submitted by Reporters in a timely and professional manner, adhering to their organization’s policies and any applicable laws or regulations. **Secret Contact is not responsible for any actions taken or not taken by Business Admins in response to reports, including any damages arising from failure to address concerns or address them appropriately.**  
+* **Data Handling and Privacy**: Business Admins must handle all data, including report contents and user information, in accordance with applicable privacy and data protection laws. Information within the Service should be used solely for addressing the concerns raised in the reports and must be treated with strict confidentiality. Business Admins are also responsible for complying with their organization’s policies on data handling and retention.
+
+**Secret Contact disclaims all responsibility for any damages resulting from improper or unauthorized use of the Service by either Reporters or Business Admins, including, but not limited to, damages arising from data mishandling, misuse of reports, or any breaches of confidentiality.**
+
+---
+
+### **5\. Data Privacy and Security**
+
+#### **Data Encryption**
+
+Secret Contact prioritizes the security and confidentiality of all data transmitted and stored within the Service. All data submitted through the Portal, including reports and user communications, is encrypted using industry-standard encryption protocols to ensure that it remains protected from unauthorized access. Notably, Secret Contact does not store decryption keys on its servers, meaning only authorized users within the organization can access and decrypt the data. This approach enhances user privacy and limits access to sensitive information solely to those with the appropriate decryption keys.
+
+#### **Personal Data Collection**
+
+Secret Contact collects limited personal data required to provide the Service effectively and securely:
+
+* **Reporters**: To maintain anonymity, the Service does not collect identifiable personal information from Reporters, except as needed to confirm user access and prevent unauthorized activity (e.g., reCAPTCHA data).  
+* **Business Admins**: Business Admins are required to provide certain personal information, such as a valid email address, username, and password, to create and manage their accounts. This information is stored securely and used exclusively for authentication, communication, and management of the Service.
+
+For more details on data handling and user rights, please refer to our Privacy Policy.
+
+#### **Data Storage**
+
+Secret Contact ensures that all data, including reports, user interactions, and audit logs, is securely stored in accordance with applicable data protection standards. Data provided by Business Admins may be stored on the server to facilitate user authentication and account management. However, information related to Reporters is stored in a way that limits access and retains the highest level of confidentiality.
+
+Audit logs and other immutable records are stored in a secure, unalterable format in compliance with data retention and regulatory standards. These logs cannot be deleted and are accessible only to authorized users within the organization and, when required, the owner of the Service.
+
+#### **Cookies and Tracking**
+
+Secret Contact uses cookies solely for necessary operational purposes, including user authentication, service security, and third-party integrations (e.g., Stripe and reCAPTCHA).
+
+* **Session Cookies**: Used for logged-in users (Business Admins) to securely maintain their session on the Service.  
+* **Third-Party Cookies**: Certain trusted third parties, such as Stripe for payment processing and Google reCAPTCHA for security validation, may set cookies in line with their own policies to ensure seamless Service functionality.
+
+No cookies are used for marketing or tracking purposes, and all cookies are limited to the minimum required to provide and protect the Service.
+
+---
+
+### **6\. Data Access and Retrieval**
+
+#### **User Data Requests**
+
+Users have the right to request access to their personal data stored within the Service, in accordance with applicable privacy laws. Business Admins can submit a formal request to view the information associated with their accounts, including any personal information they have provided for account creation and management. Reporters, due to the anonymous nature of their submissions, have limited retrievable data to ensure privacy and confidentiality.
+
+To make a data access request, users may contact Secret Contact’s support team via \[support email/contact method\]. We will verify the identity of the requester and respond within a reasonable timeframe, providing any available personal data in accordance with legal requirements and privacy policies.
+
+#### **Audit Log Access**
+
+For compliance, security, and auditing purposes, Secret Contact maintains immutable records of key activities within the Portal, such as report submissions, access events, and administrative responses. These audit logs are stored in a secure, unalterable format, ensuring transparency and accountability. While these records are not subject to deletion, authorized users within the organization, as well as the owner of Secret Contact, may access these logs as needed. This data is used solely for maintaining service integrity and supporting organizational accountability, and access is tightly controlled.
+
+#### **Anonymity and Control**
+
+The Service is designed to protect the anonymity of Reporters. Reporters have control over the information they choose to provide in their submissions, and Secret Contact does not collect personally identifiable information from Reporters unless explicitly disclosed by the Reporter themselves. Reporters can trust that their submissions will remain confidential and anonymous, enabling a secure environment for disclosing sensitive information without fear of exposure.
+
+---
+
+### **7\. Data Deletion and Retention**
+
+#### **Account Deletion**
+
+Business Admins may request the deletion of their accounts at any time by contacting Secret Contact’s support team at \[support email/contact method\]. Following verification of the request, Secret Contact will process the account termination. Upon termination, the user’s personal data will be removed from active systems, and their account will no longer be accessible.
+
+Please note that data associated with the account, such as audit logs may be retained in an immutable format to increase security and integrity. This immutable data cannot be deleted and will be securely stored as per our data retention policy.
+
+---
+
+### **8\. Compliance with Laws**
+
+#### **Legal Reporting Requirements**
+
+While Secret Contact provides a secure platform for submitting and managing reports in compliance with regulatory and ethical standards, it is the sole responsibility of each user and organization to ensure full compliance with all applicable laws and regulations. Business Admins are responsible for understanding and adhering to the legal reporting and response requirements relevant to their industry and jurisdiction. Secret Contact does not guarantee that use of the Service will fulfill any specific regulatory obligations, nor is Secret Contact liable for any failure by users to meet these obligations.
+
+#### **Data Protection and Compliance**
+
+Secret Contact is committed to protecting user privacy and adhering to applicable U.S. privacy laws, including relevant federal and state data protection regulations. Our practices are designed to comply with applicable regulatory standards and to safeguard the confidentiality and integrity of user data within the Service. Secret Contact implements best-practice security measures and conducts regular audits to ensure ongoing compliance with data protection requirements.
+
+By using the Service, users agree to comply with all applicable laws and regulations governing the use of confidential information, data privacy, and reporting obligations. Secret Contact reserves the right to restrict or terminate access to the Service in cases of suspected non-compliance with legal or regulatory standards.
+
+---
+
+### **9\. Limitations of Liability**
+
+To the fullest extent permitted by law, Secret Contact disclaims all liability for any direct, indirect, incidental, special, or consequential damages arising from or related to the use of the Service. This includes, but is not limited to, damages resulting from data loss, unauthorized access, service interruptions, or third-party interference, whether such events arise from user negligence, misuse, or actions beyond Secret Contact’s control.
+
+Secret Contact provides the Service on an “as-is” and “as-available” basis, without warranties of any kind, whether express or implied. We make no representations or warranties regarding the accuracy, reliability, or completeness of the Service or any data stored or transmitted within it. Secret Contact does not guarantee that the Service will be uninterrupted, secure, or error-free.
+
+Users are responsible for implementing appropriate security, backup, and recovery measures within their own systems. Secret Contact shall not be liable for any damages resulting from user negligence, failure to follow security best practices, or actions taken by third parties.
+
+In jurisdictions that do not allow the exclusion or limitation of certain damages, Secret Contact’s liability is limited to the maximum extent permitted by applicable law.
+
+---
+
+### **10\. Dispute Resolution**
+
+#### **Governing Law**
+
+These Terms and any disputes arising out of or relating to the Service or these Terms shall be governed by and construed in accordance with the laws of the State of Texas, without regard to its conflict of law principles. By using the Service, you agree to submit to the exclusive jurisdiction of the state and federal courts located in Texas for the resolution of any disputes.
+
+#### **Dispute Resolution Process**
+
+In the event of a dispute, claim, or controversy arising out of or relating to these Terms or the use of the Service, you agree to first attempt to resolve the matter through informal negotiation by contacting Secret Contact at \[support email/contact method\]. Both parties agree to make a good-faith effort to resolve the dispute informally within 30 days of initial contact.
+
+If the dispute cannot be resolved through informal negotiation, the parties agree to binding arbitration as the exclusive method of dispute resolution. The arbitration will be conducted by the American Arbitration Association (AAA) under its Commercial Arbitration Rules, and judgment on the arbitration award may be entered in any court with jurisdiction. The arbitration will be conducted in Texas unless both parties agree to a different location.
+
+Both parties waive their right to a trial by jury or to participate in a class action lawsuit in connection with any claims arising from these Terms. Each party shall bear its own costs and expenses in the arbitration, except as otherwise required by the AAA rules or applicable law.
+
+---
+
+### **11\. Termination of Service**
+
+#### **Termination by Secret Contact**
+
+Secret Contact reserves the right to suspend or terminate user accounts or restrict access to the Service at any time, without prior notice, under the following conditions:
+
+* **Violation of Terms**: If a user is found to be in breach of these Terms or engaging in activities that compromise the integrity, security, or functionality of the Service.  
+* **Legal Requirements**: If necessary to comply with legal obligations or requests from regulatory authorities.  
+* **Misuse or Unauthorized Access**: If Secret Contact identifies misuse of the Service, unauthorized access attempts, or actions that interfere with the Service’s normal operations.
+
+Upon termination or suspension, users will be notified, and Secret Contact reserves the right to restrict access to data stored within the Service, particularly if such data is linked to a violation of these Terms.
+
+#### **Termination by Users**
+
+Business Admins may terminate their own accounts at any time by contacting Secret Contact’s support team at \[support email/contact method\]. Following verification of the request, Secret Contact will process the account termination. Upon termination, the user’s personal data will be removed from active systems, and their account will no longer be accessible.
+
+Please note that data associated with the account, such as audit logs and certain records required for compliance, may be retained in an immutable format to meet legal and regulatory obligations. This immutable data cannot be deleted and will be securely stored as per our data retention policy.
+
+#### **Data Retention After Termination**
+
+Upon account termination, Secret Contact will retain certain data as required by legal, regulatory, or business needs. This includes audit logs and other non-deletable data stored in a secure, immutable format. All other data will be removed from active systems in accordance with our retention policies, ensuring compliance with applicable privacy laws and data protection standards.
+
+---
+
+### **12\. Contact Information**
+
+If you have any questions, concerns, or disputes regarding these Terms and Conditions or any aspect of the Service, please feel free to reach out to us. We are committed to providing support and addressing any issues you may encounter.
+
+You can contact Secret Contact’s support team through the following methods:
+
+* **Email**: \[support@secretcontact.com\]  
+* **Phone**: \[469-763-5589\]  
+* **Mail**: Secret Contact, 1333 Corporate Dr, Suite 211, Irving, TX 75038
+
+Our support team is available to assist you and aims to respond to all inquiries in a timely manner. For urgent matters, please indicate the nature of the issue in your communication to help us prioritize your request.
